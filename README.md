@@ -5,7 +5,7 @@
 
 The embedding network maps to a 2D space. It offers the visualisation of the image distribution by class:
 
-![embedding visualization, distribution for train and test](mnist_siamese_space.pdf)
+![embedding visualization, distribution for train and test](mnist_siamese_space.png)
 
 
 Built with [Keras](https://keras.io/).
